@@ -22,6 +22,7 @@ Test(hello, sanity) {
       true,
       false,
   }};
+  // Have Nice day !!!!!!
   SolParameters params = {accounts, sizeof(accounts), instruction_data,
                           sizeof(instruction_data), &program_id};
 
